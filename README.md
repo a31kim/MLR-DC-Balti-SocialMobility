@@ -1,4 +1,4 @@
-# Comparing Social Mobility in Baltimore and Washington, D.C.
+# Comparing Social Mobility in Baltimore and D.C.
 
 ## Background
 For our final project, my group decided to focus on social metrics in Baltimore and Washington, D.C. in order to compare the viability of social mobility in these two cities. In particular, we focused on two independent variables: the percentage of adults who continue to live in the same neighborhood, and the household income of people who live within their commuting zone. 
