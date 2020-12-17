@@ -18,13 +18,13 @@ The following data analysis was conducted using Python, in the Google Colaborato
 Before performing the multiple linear regression, I wanted to graphically represent the relationship between each individual independent variable and the dependent variable of median income. I used matplot to create scatter plots, which can be seen below.
 
 ### Baltimore, Median Income vs. Percentage Stay
-![](.gitbook/assets/balti-%.png)
+![](.gitbook/assets/balti-pcnt.png)
 
 ### Baltimore, Median Income vs. Income of Workers Living in Commuting Zone
 ![](.gitbook/assets/balti-income.png)
 
 ### DC, Median Income vs. Percentage Stay
-![](.gitbook/assets/dc-%.png)
+![](.gitbook/assets/dc-pcnt.png)
 
 ### DC, Median Income vs. Income of Workers Living in Commuting Zone
 ![](.gitbook/assets/dc-income.png)
